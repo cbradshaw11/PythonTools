@@ -1,0 +1,6567 @@
+Beginning of Function at 1,1
+Already filled...calling solver func 1
+
+Beginning of Function at 2,1
+Already filled...calling solver func 1
+
+Beginning of Function at 3,1
+Possible nums: 4 
+306508400
+520000000
+087000031
+003010080
+900863005
+050090600
+130000250
+000000074
+005206300
+Trying [4] at square (3,1)
+306508400
+520000000
+487000031
+003010080
+900863005
+050090600
+130000250
+000000074
+005206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,1
+Possible nums: 2 4 6 7 
+306508400
+520000000
+487000031
+003010080
+900863005
+050090600
+130000250
+000000074
+005206300
+Trying [2] at square (4,1)
+306508400
+520000000
+487000031
+203010080
+900863005
+050090600
+130000250
+000000074
+005206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,1
+Already filled...calling solver func 1
+
+Beginning of Function at 6,1
+Possible nums: 2 4 7 8 
+306508400
+520000000
+487000031
+203010080
+900863005
+050090600
+130000250
+000000074
+005206300
+Trying [2] at square (6,1)
+2 failed...moving to next possible number
+Trying [4] at square (6,1)
+4 failed...moving to next possible number
+Trying [7] at square (6,1)
+306508400
+520000000
+487000031
+203010080
+900863005
+750090600
+130000250
+000000074
+005206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,1
+Already filled...calling solver func 1
+
+Beginning of Function at 8,1
+Possible nums: 2 6 8 
+306508400
+520000000
+487000031
+203010080
+900863005
+750090600
+130000250
+000000074
+005206300
+Trying [2] at square (8,1)
+2 failed...moving to next possible number
+Trying [6] at square (8,1)
+306508400
+520000000
+487000031
+203010080
+900863005
+750090600
+130000250
+600000074
+005206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,1
+Possible nums: 4 7 8 
+306508400
+520000000
+487000031
+203010080
+900863005
+750090600
+130000250
+600000074
+005206300
+Trying [4] at square (9,1)
+4 failed...moving to next possible number
+Trying [7] at square (9,1)
+7 failed...moving to next possible number
+Trying [8] at square (9,1)
+306508400
+520000000
+487000031
+203010080
+900863005
+750090600
+130000250
+600000074
+805206300
+That worked..calling solver func 4
+
+Beginning of Function at 1,2
+Possible nums: 1 9 
+306508400
+520000000
+487000031
+203010080
+900863005
+750090600
+130000250
+600000074
+805206300
+Trying [1] at square (1,2)
+316508400
+520000000
+487000031
+203010080
+900863005
+750090600
+130000250
+600000074
+805206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,2
+Already filled...calling solver func 1
+
+Beginning of Function at 3,2
+Already filled...calling solver func 1
+
+Beginning of Function at 4,2
+Possible nums: 4 6 7 
+316508400
+520000000
+487000031
+203010080
+900863005
+750090600
+130000250
+600000074
+805206300
+Trying [4] at square (4,2)
+316508400
+520000000
+487000031
+243010080
+900863005
+750090600
+130000250
+600000074
+805206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,2
+Possible nums: 1 4 7 
+316508400
+520000000
+487000031
+243010080
+900863005
+750090600
+130000250
+600000074
+805206300
+Trying [1] at square (5,2)
+1 failed...moving to next possible number
+Trying [4] at square (5,2)
+4 failed...moving to next possible number
+Trying [7] at square (5,2)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [6] at square (4,2)
+316508400
+520000000
+487000031
+263010080
+900863005
+750090600
+130000250
+600000074
+805206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,2
+Possible nums: 1 4 7 
+316508400
+520000000
+487000031
+263010080
+900863005
+750090600
+130000250
+600000074
+805206300
+Trying [1] at square (5,2)
+1 failed...moving to next possible number
+Trying [4] at square (5,2)
+316508400
+520000000
+487000031
+263010080
+940863005
+750090600
+130000250
+600000074
+805206300
+That worked..calling solver func 3
+
+Beginning of Function at 6,2
+Already filled...calling solver func 1
+
+Beginning of Function at 7,2
+Already filled...calling solver func 1
+
+Beginning of Function at 8,2
+Possible nums: 6 9 
+316508400
+520000000
+487000031
+263010080
+940863005
+750090600
+130000250
+600000074
+805206300
+Trying [6] at square (8,2)
+6 failed...moving to next possible number
+Trying [9] at square (8,2)
+316508400
+520000000
+487000031
+263010080
+940863005
+750090600
+130000250
+690000074
+805206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,2
+Possible nums: 4 7 9 
+316508400
+520000000
+487000031
+263010080
+940863005
+750090600
+130000250
+690000074
+805206300
+Trying [4] at square (9,2)
+4 failed...moving to next possible number
+Trying [7] at square (9,2)
+316508400
+520000000
+487000031
+263010080
+940863005
+750090600
+130000250
+690000074
+875206300
+That worked..calling solver func 4
+
+Beginning of Function at 1,3
+Already filled...calling solver func 1
+
+Beginning of Function at 2,3
+Possible nums: 1 4 9 
+316508400
+520000000
+487000031
+263010080
+940863005
+750090600
+130000250
+690000074
+875206300
+Trying [1] at square (2,3)
+1 failed...moving to next possible number
+Trying [4] at square (2,3)
+4 failed...moving to next possible number
+Trying [9] at square (2,3)
+316508400
+529000000
+487000031
+263010080
+940863005
+750090600
+130000250
+690000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,3
+Already filled...calling solver func 1
+
+Beginning of Function at 4,3
+Already filled...calling solver func 1
+
+Beginning of Function at 5,3
+Possible nums: 1 2 4 
+316508400
+529000000
+487000031
+263010080
+940863005
+750090600
+130000250
+690000074
+875206300
+Trying [1] at square (5,3)
+316508400
+529000000
+487000031
+263010080
+941863005
+750090600
+130000250
+690000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 6,3
+Possible nums: 1 2 4 8 
+316508400
+529000000
+487000031
+263010080
+941863005
+750090600
+130000250
+690000074
+875206300
+Trying [1] at square (6,3)
+1 failed...moving to next possible number
+Trying [2] at square (6,3)
+2 failed...moving to next possible number
+Trying [4] at square (6,3)
+4 failed...moving to next possible number
+Trying [8] at square (6,3)
+316508400
+529000000
+487000031
+263010080
+941863005
+758090600
+130000250
+690000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,3
+Possible nums: 4 8 9 
+316508400
+529000000
+487000031
+263010080
+941863005
+758090600
+130000250
+690000074
+875206300
+Trying [4] at square (7,3)
+316508400
+529000000
+487000031
+263010080
+941863005
+758090600
+134000250
+690000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,3
+Possible nums: 2 8 9 
+316508400
+529000000
+487000031
+263010080
+941863005
+758090600
+134000250
+690000074
+875206300
+Trying [2] at square (8,3)
+316508400
+529000000
+487000031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,3
+Already filled...calling solver func 2
+
+Beginning of Function at 1,4
+Already filled...calling solver func 1
+
+Beginning of Function at 2,4
+Possible nums: 1 3 4 6 7 9 
+316508400
+529000000
+487000031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [1] at square (2,4)
+316508400
+529100000
+487000031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,4
+Possible nums: 4 6 9 
+316508400
+529100000
+487000031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (3,4)
+4 failed...moving to next possible number
+Trying [6] at square (3,4)
+316508400
+529100000
+487600031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529100000
+487600031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (4,4)
+316508400
+529100000
+487600031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529100000
+487600031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+316508400
+529100000
+487600031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529100000
+487600031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+316508400
+529100000
+487600031
+263710080
+941863005
+758490600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,4
+Possible nums: 4 7 9 
+316508400
+529100000
+487600031
+263710080
+941863005
+758490600
+134000250
+692000074
+875206300
+Trying [4] at square (7,4)
+4 failed...moving to next possible number
+Trying [7] at square (7,4)
+7 failed...moving to next possible number
+Trying [9] at square (7,4)
+316508400
+529100000
+487600031
+263710080
+941863005
+758490600
+134900250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,4
+Possible nums: 1 3 9 
+316508400
+529100000
+487600031
+263710080
+941863005
+758490600
+134900250
+692000074
+875206300
+Trying [1] at square (8,4)
+1 failed...moving to next possible number
+Trying [3] at square (8,4)
+316508400
+529100000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,4
+Already filled...calling solver func 2
+
+Beginning of Function at 1,5
+Possible nums: 2 7 
+316508400
+529100000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+Trying [2] at square (1,5)
+316528400
+529100000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,5
+Possible nums: 3 4 7 
+316528400
+529100000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+Trying [3] at square (2,5)
+316528400
+529130000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529130000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [4] at square (2,5)
+316528400
+529140000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529140000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (2,5)
+316528400
+529170000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529170000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (1,5)
+316578400
+529100000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,5
+Possible nums: 3 4 7 
+316578400
+529100000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+Trying [3] at square (2,5)
+316578400
+529130000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316578400
+529130000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+Trying [2] at square (3,5)
+316578400
+529130000
+487620031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,5
+Already filled...calling solver func 1
+
+Beginning of Function at 5,5
+Already filled...calling solver func 1
+
+Beginning of Function at 6,5
+Already filled...calling solver func 1
+
+Beginning of Function at 7,5
+Possible nums: 4 7 8 
+316578400
+529130000
+487620031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+Trying [4] at square (7,5)
+4 failed...moving to next possible number
+Trying [7] at square (7,5)
+7 failed...moving to next possible number
+Trying [8] at square (7,5)
+316578400
+529130000
+487620031
+263710080
+941863005
+758490600
+134980250
+692300074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,5
+Possible nums: 3 5 8 
+316578400
+529130000
+487620031
+263710080
+941863005
+758490600
+134980250
+692300074
+875206300
+Trying [3] at square (8,5)
+3 failed...moving to next possible number
+Trying [5] at square (8,5)
+316578400
+529130000
+487620031
+263710080
+941863005
+758490600
+134980250
+692350074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,5
+Possible nums: 4 7 8 
+316578400
+529130000
+487620031
+263710080
+941863005
+758490600
+134980250
+692350074
+875206300
+Trying [4] at square (9,5)
+316578400
+529130000
+487620031
+263710080
+941863005
+758490600
+134980250
+692350074
+875246300
+That worked..calling solver func 4
+
+Beginning of Function at 1,6
+Already filled...calling solver func 1
+
+Beginning of Function at 2,6
+Possible nums: 1 4 7 9 
+316578400
+529130000
+487620031
+263710080
+941863005
+758490600
+134980250
+692350074
+875246300
+Trying [1] at square (2,6)
+1 failed...moving to next possible number
+Trying [4] at square (2,6)
+316578400
+529134000
+487620031
+263710080
+941863005
+758490600
+134980250
+692350074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 3,6
+Possible nums: 2 4 9 
+316578400
+529134000
+487620031
+263710080
+941863005
+758490600
+134980250
+692350074
+875246300
+Trying [2] at square (3,6)
+2 failed...moving to next possible number
+Trying [4] at square (3,6)
+4 failed...moving to next possible number
+Trying [9] at square (3,6)
+316578400
+529134000
+487629031
+263710080
+941863005
+758490600
+134980250
+692350074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 4,6
+Possible nums: 2 4 5 7 
+316578400
+529134000
+487629031
+263710080
+941863005
+758490600
+134980250
+692350074
+875246300
+Trying [2] at square (4,6)
+2 failed...moving to next possible number
+Trying [4] at square (4,6)
+4 failed...moving to next possible number
+Trying [5] at square (4,6)
+316578400
+529134000
+487629031
+263715080
+941863005
+758490600
+134980250
+692350074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 5,6
+Already filled...calling solver func 1
+
+Beginning of Function at 6,6
+Possible nums: 2 4 7 
+316578400
+529134000
+487629031
+263715080
+941863005
+758490600
+134980250
+692350074
+875246300
+Trying [2] at square (6,6)
+316578400
+529134000
+487629031
+263715080
+941863005
+758492600
+134980250
+692350074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 7,6
+Possible nums: 4 7 9 
+316578400
+529134000
+487629031
+263715080
+941863005
+758492600
+134980250
+692350074
+875246300
+Trying [4] at square (7,6)
+4 failed...moving to next possible number
+Trying [7] at square (7,6)
+316578400
+529134000
+487629031
+263715080
+941863005
+758492600
+134987250
+692350074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 8,6
+Possible nums: 1 5 9 
+316578400
+529134000
+487629031
+263715080
+941863005
+758492600
+134987250
+692350074
+875246300
+Trying [1] at square (8,6)
+316578400
+529134000
+487629031
+263715080
+941863005
+758492600
+134987250
+692351074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 9,6
+Already filled...calling solver func 2
+
+Beginning of Function at 1,7
+Already filled...calling solver func 1
+
+Beginning of Function at 2,7
+Possible nums: 7 8 9 
+316578400
+529134000
+487629031
+263715080
+941863005
+758492600
+134987250
+692351074
+875246300
+Trying [7] at square (2,7)
+316578400
+529134700
+487629031
+263715080
+941863005
+758492600
+134987250
+692351074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 3,7
+Possible nums: 5 9 
+316578400
+529134700
+487629031
+263715080
+941863005
+758492600
+134987250
+692351074
+875246300
+Trying [5] at square (3,7)
+316578400
+529134700
+487629531
+263715080
+941863005
+758492600
+134987250
+692351074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 4,7
+Possible nums: 7 9 
+316578400
+529134700
+487629531
+263715080
+941863005
+758492600
+134987250
+692351074
+875246300
+Trying [7] at square (4,7)
+7 failed...moving to next possible number
+Trying [9] at square (4,7)
+316578400
+529134700
+487629531
+263715980
+941863005
+758492600
+134987250
+692351074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 5,7
+Possible nums: 1 7 
+316578400
+529134700
+487629531
+263715980
+941863005
+758492600
+134987250
+692351074
+875246300
+Trying [1] at square (5,7)
+1 failed...moving to next possible number
+Trying [7] at square (5,7)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (3,7)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [8] at square (2,7)
+316578400
+529134800
+487629031
+263715080
+941863005
+758492600
+134987250
+692351074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 3,7
+Possible nums: 5 9 
+316578400
+529134800
+487629031
+263715080
+941863005
+758492600
+134987250
+692351074
+875246300
+Trying [5] at square (3,7)
+316578400
+529134800
+487629531
+263715080
+941863005
+758492600
+134987250
+692351074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 4,7
+Possible nums: 7 9 
+316578400
+529134800
+487629531
+263715080
+941863005
+758492600
+134987250
+692351074
+875246300
+Trying [7] at square (4,7)
+7 failed...moving to next possible number
+Trying [9] at square (4,7)
+316578400
+529134800
+487629531
+263715980
+941863005
+758492600
+134987250
+692351074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 5,7
+Possible nums: 1 7 
+316578400
+529134800
+487629531
+263715980
+941863005
+758492600
+134987250
+692351074
+875246300
+Trying [1] at square (5,7)
+1 failed...moving to next possible number
+Trying [7] at square (5,7)
+316578400
+529134800
+487629531
+263715980
+941863705
+758492600
+134987250
+692351074
+875246300
+That worked..calling solver func 3
+
+Beginning of Function at 6,7
+Already filled...calling solver func 1
+
+Beginning of Function at 7,7
+Already filled...calling solver func 1
+
+Beginning of Function at 8,7
+Possible nums: 1 8 9 
+316578400
+529134800
+487629531
+263715980
+941863705
+758492600
+134987250
+692351074
+875246300
+Trying [1] at square (8,7)
+1 failed...moving to next possible number
+Trying [8] at square (8,7)
+8 failed...moving to next possible number
+Trying [9] at square (8,7)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (3,7)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [9] at square (2,7)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [5] at square (8,6)
+5 failed...moving to next possible number
+Trying [9] at square (8,6)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [9] at square (7,6)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [4] at square (6,6)
+4 failed...moving to next possible number
+Trying [7] at square (6,6)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,6)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (2,6)
+7 failed...moving to next possible number
+Trying [9] at square (2,6)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (9,5)
+7 failed...moving to next possible number
+Trying [8] at square (9,5)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [8] at square (8,5)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [4] at square (2,5)
+316578400
+529140000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316578400
+529140000
+487600031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+Trying [2] at square (3,5)
+316578400
+529140000
+487620031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,5
+Already filled...calling solver func 1
+
+Beginning of Function at 5,5
+Already filled...calling solver func 1
+
+Beginning of Function at 6,5
+Already filled...calling solver func 1
+
+Beginning of Function at 7,5
+Possible nums: 4 7 8 
+316578400
+529140000
+487620031
+263710080
+941863005
+758490600
+134900250
+692300074
+875206300
+Trying [4] at square (7,5)
+4 failed...moving to next possible number
+Trying [7] at square (7,5)
+7 failed...moving to next possible number
+Trying [8] at square (7,5)
+316578400
+529140000
+487620031
+263710080
+941863005
+758490600
+134980250
+692300074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,5
+Possible nums: 3 5 8 
+316578400
+529140000
+487620031
+263710080
+941863005
+758490600
+134980250
+692300074
+875206300
+Trying [3] at square (8,5)
+3 failed...moving to next possible number
+Trying [5] at square (8,5)
+316578400
+529140000
+487620031
+263710080
+941863005
+758490600
+134980250
+692350074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,5
+Possible nums: 4 7 8 
+316578400
+529140000
+487620031
+263710080
+941863005
+758490600
+134980250
+692350074
+875206300
+Trying [4] at square (9,5)
+4 failed...moving to next possible number
+Trying [7] at square (9,5)
+7 failed...moving to next possible number
+Trying [8] at square (9,5)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [8] at square (8,5)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (2,5)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (8,4)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (3,4)
+316508400
+529100000
+487900031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529100000
+487900031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (4,4)
+316508400
+529100000
+487900031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529100000
+487900031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+316508400
+529100000
+487900031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529100000
+487900031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+316508400
+529100000
+487900031
+263710080
+941863005
+758490600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,4
+Possible nums: 4 7 9 
+316508400
+529100000
+487900031
+263710080
+941863005
+758490600
+134000250
+692000074
+875206300
+Trying [4] at square (7,4)
+4 failed...moving to next possible number
+Trying [7] at square (7,4)
+7 failed...moving to next possible number
+Trying [9] at square (7,4)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [3] at square (2,4)
+316508400
+529300000
+487000031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,4
+Possible nums: 4 6 9 
+316508400
+529300000
+487000031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (3,4)
+4 failed...moving to next possible number
+Trying [6] at square (3,4)
+316508400
+529300000
+487600031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529300000
+487600031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (4,4)
+316508400
+529300000
+487600031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529300000
+487600031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+316508400
+529300000
+487600031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529300000
+487600031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+316508400
+529300000
+487600031
+263710080
+941863005
+758490600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,4
+Possible nums: 4 7 9 
+316508400
+529300000
+487600031
+263710080
+941863005
+758490600
+134000250
+692000074
+875206300
+Trying [4] at square (7,4)
+4 failed...moving to next possible number
+Trying [7] at square (7,4)
+7 failed...moving to next possible number
+Trying [9] at square (7,4)
+316508400
+529300000
+487600031
+263710080
+941863005
+758490600
+134900250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,4
+Possible nums: 1 3 9 
+316508400
+529300000
+487600031
+263710080
+941863005
+758490600
+134900250
+692000074
+875206300
+Trying [1] at square (8,4)
+316508400
+529300000
+487600031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,4
+Already filled...calling solver func 2
+
+Beginning of Function at 1,5
+Possible nums: 2 7 
+316508400
+529300000
+487600031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+Trying [2] at square (1,5)
+316528400
+529300000
+487600031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,5
+Possible nums: 3 4 7 
+316528400
+529300000
+487600031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+Trying [3] at square (2,5)
+3 failed...moving to next possible number
+Trying [4] at square (2,5)
+316528400
+529340000
+487600031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529340000
+487600031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (2,5)
+316528400
+529370000
+487600031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529370000
+487600031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (1,5)
+316578400
+529300000
+487600031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,5
+Possible nums: 3 4 7 
+316578400
+529300000
+487600031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+Trying [3] at square (2,5)
+3 failed...moving to next possible number
+Trying [4] at square (2,5)
+316578400
+529340000
+487600031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316578400
+529340000
+487600031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+Trying [2] at square (3,5)
+316578400
+529340000
+487620031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,5
+Already filled...calling solver func 1
+
+Beginning of Function at 5,5
+Already filled...calling solver func 1
+
+Beginning of Function at 6,5
+Already filled...calling solver func 1
+
+Beginning of Function at 7,5
+Possible nums: 4 7 8 
+316578400
+529340000
+487620031
+263710080
+941863005
+758490600
+134900250
+692100074
+875206300
+Trying [4] at square (7,5)
+4 failed...moving to next possible number
+Trying [7] at square (7,5)
+7 failed...moving to next possible number
+Trying [8] at square (7,5)
+316578400
+529340000
+487620031
+263710080
+941863005
+758490600
+134980250
+692100074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,5
+Possible nums: 3 5 8 
+316578400
+529340000
+487620031
+263710080
+941863005
+758490600
+134980250
+692100074
+875206300
+Trying [3] at square (8,5)
+316578400
+529340000
+487620031
+263710080
+941863005
+758490600
+134980250
+692130074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,5
+Possible nums: 4 7 8 
+316578400
+529340000
+487620031
+263710080
+941863005
+758490600
+134980250
+692130074
+875206300
+Trying [4] at square (9,5)
+4 failed...moving to next possible number
+Trying [7] at square (9,5)
+7 failed...moving to next possible number
+Trying [8] at square (9,5)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [5] at square (8,5)
+316578400
+529340000
+487620031
+263710080
+941863005
+758490600
+134980250
+692150074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,5
+Possible nums: 4 7 8 
+316578400
+529340000
+487620031
+263710080
+941863005
+758490600
+134980250
+692150074
+875206300
+Trying [4] at square (9,5)
+4 failed...moving to next possible number
+Trying [7] at square (9,5)
+7 failed...moving to next possible number
+Trying [8] at square (9,5)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [8] at square (8,5)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (2,5)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [3] at square (8,4)
+3 failed...moving to next possible number
+Trying [9] at square (8,4)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (3,4)
+316508400
+529300000
+487900031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529300000
+487900031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (4,4)
+316508400
+529300000
+487900031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529300000
+487900031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+316508400
+529300000
+487900031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529300000
+487900031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+316508400
+529300000
+487900031
+263710080
+941863005
+758490600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,4
+Possible nums: 4 7 9 
+316508400
+529300000
+487900031
+263710080
+941863005
+758490600
+134000250
+692000074
+875206300
+Trying [4] at square (7,4)
+4 failed...moving to next possible number
+Trying [7] at square (7,4)
+7 failed...moving to next possible number
+Trying [9] at square (7,4)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [4] at square (2,4)
+316508400
+529400000
+487000031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,4
+Possible nums: 4 6 9 
+316508400
+529400000
+487000031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (3,4)
+4 failed...moving to next possible number
+Trying [6] at square (3,4)
+316508400
+529400000
+487600031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529400000
+487600031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (4,4)
+4 failed...moving to next possible number
+Trying [7] at square (4,4)
+316508400
+529400000
+487600031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529400000
+487600031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (3,4)
+316508400
+529400000
+487900031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529400000
+487900031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (4,4)
+4 failed...moving to next possible number
+Trying [7] at square (4,4)
+316508400
+529400000
+487900031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529400000
+487900031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [6] at square (2,4)
+316508400
+529600000
+487000031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,4
+Possible nums: 4 6 9 
+316508400
+529600000
+487000031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (3,4)
+4 failed...moving to next possible number
+Trying [6] at square (3,4)
+6 failed...moving to next possible number
+Trying [9] at square (3,4)
+316508400
+529600000
+487900031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529600000
+487900031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (4,4)
+316508400
+529600000
+487900031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529600000
+487900031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+316508400
+529600000
+487900031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529600000
+487900031
+263710080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+316508400
+529600000
+487900031
+263710080
+941863005
+758490600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,4
+Possible nums: 4 7 9 
+316508400
+529600000
+487900031
+263710080
+941863005
+758490600
+134000250
+692000074
+875206300
+Trying [4] at square (7,4)
+4 failed...moving to next possible number
+Trying [7] at square (7,4)
+7 failed...moving to next possible number
+Trying [9] at square (7,4)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (2,4)
+316508400
+529700000
+487000031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,4
+Possible nums: 4 6 9 
+316508400
+529700000
+487000031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (3,4)
+4 failed...moving to next possible number
+Trying [6] at square (3,4)
+316508400
+529700000
+487600031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529700000
+487600031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (4,4)
+316508400
+529700000
+487600031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529700000
+487600031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [9] at square (3,4)
+316508400
+529700000
+487900031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529700000
+487900031
+263010080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (4,4)
+316508400
+529700000
+487900031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529700000
+487900031
+263410080
+941863005
+758090600
+134000250
+692000074
+875206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (2,4)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [8] at square (8,3)
+8 failed...moving to next possible number
+Trying [9] at square (8,3)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [8] at square (7,3)
+8 failed...moving to next possible number
+Trying [9] at square (7,3)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [2] at square (5,3)
+2 failed...moving to next possible number
+Trying [4] at square (5,3)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (9,2)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (5,2)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,2)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [9] at square (1,2)
+396508400
+520000000
+487000031
+203010080
+900863005
+750090600
+130000250
+600000074
+805206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,2
+Already filled...calling solver func 1
+
+Beginning of Function at 3,2
+Already filled...calling solver func 1
+
+Beginning of Function at 4,2
+Possible nums: 4 6 7 
+396508400
+520000000
+487000031
+203010080
+900863005
+750090600
+130000250
+600000074
+805206300
+Trying [4] at square (4,2)
+396508400
+520000000
+487000031
+243010080
+900863005
+750090600
+130000250
+600000074
+805206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,2
+Possible nums: 1 4 7 
+396508400
+520000000
+487000031
+243010080
+900863005
+750090600
+130000250
+600000074
+805206300
+Trying [1] at square (5,2)
+396508400
+520000000
+487000031
+243010080
+910863005
+750090600
+130000250
+600000074
+805206300
+That worked..calling solver func 3
+
+Beginning of Function at 6,2
+Already filled...calling solver func 1
+
+Beginning of Function at 7,2
+Already filled...calling solver func 1
+
+Beginning of Function at 8,2
+Possible nums: 6 9 
+396508400
+520000000
+487000031
+243010080
+910863005
+750090600
+130000250
+600000074
+805206300
+Trying [6] at square (8,2)
+6 failed...moving to next possible number
+Trying [9] at square (8,2)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [4] at square (5,2)
+4 failed...moving to next possible number
+Trying [7] at square (5,2)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [6] at square (4,2)
+396508400
+520000000
+487000031
+263010080
+900863005
+750090600
+130000250
+600000074
+805206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,2
+Possible nums: 1 4 7 
+396508400
+520000000
+487000031
+263010080
+900863005
+750090600
+130000250
+600000074
+805206300
+Trying [1] at square (5,2)
+396508400
+520000000
+487000031
+263010080
+910863005
+750090600
+130000250
+600000074
+805206300
+That worked..calling solver func 3
+
+Beginning of Function at 6,2
+Already filled...calling solver func 1
+
+Beginning of Function at 7,2
+Already filled...calling solver func 1
+
+Beginning of Function at 8,2
+Possible nums: 6 9 
+396508400
+520000000
+487000031
+263010080
+910863005
+750090600
+130000250
+600000074
+805206300
+Trying [6] at square (8,2)
+6 failed...moving to next possible number
+Trying [9] at square (8,2)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [4] at square (5,2)
+396508400
+520000000
+487000031
+263010080
+940863005
+750090600
+130000250
+600000074
+805206300
+That worked..calling solver func 3
+
+Beginning of Function at 6,2
+Already filled...calling solver func 1
+
+Beginning of Function at 7,2
+Already filled...calling solver func 1
+
+Beginning of Function at 8,2
+Possible nums: 6 9 
+396508400
+520000000
+487000031
+263010080
+940863005
+750090600
+130000250
+600000074
+805206300
+Trying [6] at square (8,2)
+6 failed...moving to next possible number
+Trying [9] at square (8,2)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (5,2)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,2)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [8] at square (8,1)
+306508400
+520000000
+487000031
+203010080
+900863005
+750090600
+130000250
+800000074
+005206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,1
+Possible nums: 4 7 8 
+306508400
+520000000
+487000031
+203010080
+900863005
+750090600
+130000250
+800000074
+005206300
+Trying [4] at square (9,1)
+4 failed...moving to next possible number
+Trying [7] at square (9,1)
+7 failed...moving to next possible number
+Trying [8] at square (9,1)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [8] at square (6,1)
+306508400
+520000000
+487000031
+203010080
+900863005
+850090600
+130000250
+000000074
+005206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,1
+Already filled...calling solver func 1
+
+Beginning of Function at 8,1
+Possible nums: 2 6 8 
+306508400
+520000000
+487000031
+203010080
+900863005
+850090600
+130000250
+000000074
+005206300
+Trying [2] at square (8,1)
+2 failed...moving to next possible number
+Trying [6] at square (8,1)
+306508400
+520000000
+487000031
+203010080
+900863005
+850090600
+130000250
+600000074
+005206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,1
+Possible nums: 4 7 8 
+306508400
+520000000
+487000031
+203010080
+900863005
+850090600
+130000250
+600000074
+005206300
+Trying [4] at square (9,1)
+4 failed...moving to next possible number
+Trying [7] at square (9,1)
+306508400
+520000000
+487000031
+203010080
+900863005
+850090600
+130000250
+600000074
+705206300
+That worked..calling solver func 4
+
+Beginning of Function at 1,2
+Possible nums: 1 9 
+306508400
+520000000
+487000031
+203010080
+900863005
+850090600
+130000250
+600000074
+705206300
+Trying [1] at square (1,2)
+316508400
+520000000
+487000031
+203010080
+900863005
+850090600
+130000250
+600000074
+705206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,2
+Already filled...calling solver func 1
+
+Beginning of Function at 3,2
+Already filled...calling solver func 1
+
+Beginning of Function at 4,2
+Possible nums: 4 6 7 
+316508400
+520000000
+487000031
+203010080
+900863005
+850090600
+130000250
+600000074
+705206300
+Trying [4] at square (4,2)
+316508400
+520000000
+487000031
+243010080
+900863005
+850090600
+130000250
+600000074
+705206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,2
+Possible nums: 1 4 7 
+316508400
+520000000
+487000031
+243010080
+900863005
+850090600
+130000250
+600000074
+705206300
+Trying [1] at square (5,2)
+1 failed...moving to next possible number
+Trying [4] at square (5,2)
+4 failed...moving to next possible number
+Trying [7] at square (5,2)
+316508400
+520000000
+487000031
+243010080
+970863005
+850090600
+130000250
+600000074
+705206300
+That worked..calling solver func 3
+
+Beginning of Function at 6,2
+Already filled...calling solver func 1
+
+Beginning of Function at 7,2
+Already filled...calling solver func 1
+
+Beginning of Function at 8,2
+Possible nums: 6 9 
+316508400
+520000000
+487000031
+243010080
+970863005
+850090600
+130000250
+600000074
+705206300
+Trying [6] at square (8,2)
+6 failed...moving to next possible number
+Trying [9] at square (8,2)
+316508400
+520000000
+487000031
+243010080
+970863005
+850090600
+130000250
+690000074
+705206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,2
+Possible nums: 4 7 9 
+316508400
+520000000
+487000031
+243010080
+970863005
+850090600
+130000250
+690000074
+705206300
+Trying [4] at square (9,2)
+4 failed...moving to next possible number
+Trying [7] at square (9,2)
+7 failed...moving to next possible number
+Trying [9] at square (9,2)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [6] at square (4,2)
+316508400
+520000000
+487000031
+263010080
+900863005
+850090600
+130000250
+600000074
+705206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,2
+Possible nums: 1 4 7 
+316508400
+520000000
+487000031
+263010080
+900863005
+850090600
+130000250
+600000074
+705206300
+Trying [1] at square (5,2)
+1 failed...moving to next possible number
+Trying [4] at square (5,2)
+316508400
+520000000
+487000031
+263010080
+940863005
+850090600
+130000250
+600000074
+705206300
+That worked..calling solver func 3
+
+Beginning of Function at 6,2
+Already filled...calling solver func 1
+
+Beginning of Function at 7,2
+Already filled...calling solver func 1
+
+Beginning of Function at 8,2
+Possible nums: 6 9 
+316508400
+520000000
+487000031
+263010080
+940863005
+850090600
+130000250
+600000074
+705206300
+Trying [6] at square (8,2)
+6 failed...moving to next possible number
+Trying [9] at square (8,2)
+316508400
+520000000
+487000031
+263010080
+940863005
+850090600
+130000250
+690000074
+705206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,2
+Possible nums: 4 7 9 
+316508400
+520000000
+487000031
+263010080
+940863005
+850090600
+130000250
+690000074
+705206300
+Trying [4] at square (9,2)
+4 failed...moving to next possible number
+Trying [7] at square (9,2)
+7 failed...moving to next possible number
+Trying [9] at square (9,2)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (5,2)
+316508400
+520000000
+487000031
+263010080
+970863005
+850090600
+130000250
+600000074
+705206300
+That worked..calling solver func 3
+
+Beginning of Function at 6,2
+Already filled...calling solver func 1
+
+Beginning of Function at 7,2
+Already filled...calling solver func 1
+
+Beginning of Function at 8,2
+Possible nums: 6 9 
+316508400
+520000000
+487000031
+263010080
+970863005
+850090600
+130000250
+600000074
+705206300
+Trying [6] at square (8,2)
+6 failed...moving to next possible number
+Trying [9] at square (8,2)
+316508400
+520000000
+487000031
+263010080
+970863005
+850090600
+130000250
+690000074
+705206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,2
+Possible nums: 4 7 9 
+316508400
+520000000
+487000031
+263010080
+970863005
+850090600
+130000250
+690000074
+705206300
+Trying [4] at square (9,2)
+316508400
+520000000
+487000031
+263010080
+970863005
+850090600
+130000250
+690000074
+745206300
+That worked..calling solver func 4
+
+Beginning of Function at 1,3
+Already filled...calling solver func 1
+
+Beginning of Function at 2,3
+Possible nums: 1 4 9 
+316508400
+520000000
+487000031
+263010080
+970863005
+850090600
+130000250
+690000074
+745206300
+Trying [1] at square (2,3)
+1 failed...moving to next possible number
+Trying [4] at square (2,3)
+4 failed...moving to next possible number
+Trying [9] at square (2,3)
+316508400
+529000000
+487000031
+263010080
+970863005
+850090600
+130000250
+690000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,3
+Already filled...calling solver func 1
+
+Beginning of Function at 4,3
+Already filled...calling solver func 1
+
+Beginning of Function at 5,3
+Possible nums: 1 2 4 
+316508400
+529000000
+487000031
+263010080
+970863005
+850090600
+130000250
+690000074
+745206300
+Trying [1] at square (5,3)
+316508400
+529000000
+487000031
+263010080
+971863005
+850090600
+130000250
+690000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 6,3
+Possible nums: 1 2 4 8 
+316508400
+529000000
+487000031
+263010080
+971863005
+850090600
+130000250
+690000074
+745206300
+Trying [1] at square (6,3)
+1 failed...moving to next possible number
+Trying [2] at square (6,3)
+2 failed...moving to next possible number
+Trying [4] at square (6,3)
+316508400
+529000000
+487000031
+263010080
+971863005
+854090600
+130000250
+690000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,3
+Possible nums: 4 8 9 
+316508400
+529000000
+487000031
+263010080
+971863005
+854090600
+130000250
+690000074
+745206300
+Trying [4] at square (7,3)
+4 failed...moving to next possible number
+Trying [8] at square (7,3)
+316508400
+529000000
+487000031
+263010080
+971863005
+854090600
+138000250
+690000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,3
+Possible nums: 2 8 9 
+316508400
+529000000
+487000031
+263010080
+971863005
+854090600
+138000250
+690000074
+745206300
+Trying [2] at square (8,3)
+316508400
+529000000
+487000031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,3
+Already filled...calling solver func 2
+
+Beginning of Function at 1,4
+Already filled...calling solver func 1
+
+Beginning of Function at 2,4
+Possible nums: 1 3 4 6 7 9 
+316508400
+529000000
+487000031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [1] at square (2,4)
+316508400
+529100000
+487000031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,4
+Possible nums: 4 6 9 
+316508400
+529100000
+487000031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (3,4)
+4 failed...moving to next possible number
+Trying [6] at square (3,4)
+316508400
+529100000
+487600031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529100000
+487600031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (4,4)
+316508400
+529100000
+487600031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529100000
+487600031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+316508400
+529100000
+487600031
+263410080
+971863005
+854790600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,4
+Possible nums: 4 7 9 
+316508400
+529100000
+487600031
+263410080
+971863005
+854790600
+138000250
+692000074
+745206300
+Trying [4] at square (7,4)
+4 failed...moving to next possible number
+Trying [7] at square (7,4)
+7 failed...moving to next possible number
+Trying [9] at square (7,4)
+316508400
+529100000
+487600031
+263410080
+971863005
+854790600
+138900250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,4
+Possible nums: 1 3 9 
+316508400
+529100000
+487600031
+263410080
+971863005
+854790600
+138900250
+692000074
+745206300
+Trying [1] at square (8,4)
+1 failed...moving to next possible number
+Trying [3] at square (8,4)
+316508400
+529100000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,4
+Already filled...calling solver func 2
+
+Beginning of Function at 1,5
+Possible nums: 2 7 
+316508400
+529100000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+Trying [2] at square (1,5)
+316528400
+529100000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,5
+Possible nums: 3 4 7 
+316528400
+529100000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+Trying [3] at square (2,5)
+316528400
+529130000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529130000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [4] at square (2,5)
+316528400
+529140000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529140000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (2,5)
+316528400
+529170000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529170000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (1,5)
+316578400
+529100000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,5
+Possible nums: 3 4 7 
+316578400
+529100000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+Trying [3] at square (2,5)
+316578400
+529130000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316578400
+529130000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+Trying [2] at square (3,5)
+316578400
+529130000
+487620031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,5
+Already filled...calling solver func 1
+
+Beginning of Function at 5,5
+Already filled...calling solver func 1
+
+Beginning of Function at 6,5
+Already filled...calling solver func 1
+
+Beginning of Function at 7,5
+Possible nums: 4 7 8 
+316578400
+529130000
+487620031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+Trying [4] at square (7,5)
+316578400
+529130000
+487620031
+263410080
+971863005
+854790600
+138940250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,5
+Possible nums: 3 5 8 
+316578400
+529130000
+487620031
+263410080
+971863005
+854790600
+138940250
+692300074
+745206300
+Trying [3] at square (8,5)
+3 failed...moving to next possible number
+Trying [5] at square (8,5)
+316578400
+529130000
+487620031
+263410080
+971863005
+854790600
+138940250
+692350074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,5
+Possible nums: 4 7 8 
+316578400
+529130000
+487620031
+263410080
+971863005
+854790600
+138940250
+692350074
+745206300
+Trying [4] at square (9,5)
+4 failed...moving to next possible number
+Trying [7] at square (9,5)
+7 failed...moving to next possible number
+Trying [8] at square (9,5)
+316578400
+529130000
+487620031
+263410080
+971863005
+854790600
+138940250
+692350074
+745286300
+That worked..calling solver func 4
+
+Beginning of Function at 1,6
+Already filled...calling solver func 1
+
+Beginning of Function at 2,6
+Possible nums: 1 4 7 9 
+316578400
+529130000
+487620031
+263410080
+971863005
+854790600
+138940250
+692350074
+745286300
+Trying [1] at square (2,6)
+1 failed...moving to next possible number
+Trying [4] at square (2,6)
+316578400
+529134000
+487620031
+263410080
+971863005
+854790600
+138940250
+692350074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 3,6
+Possible nums: 2 4 9 
+316578400
+529134000
+487620031
+263410080
+971863005
+854790600
+138940250
+692350074
+745286300
+Trying [2] at square (3,6)
+2 failed...moving to next possible number
+Trying [4] at square (3,6)
+4 failed...moving to next possible number
+Trying [9] at square (3,6)
+316578400
+529134000
+487629031
+263410080
+971863005
+854790600
+138940250
+692350074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 4,6
+Possible nums: 2 4 5 7 
+316578400
+529134000
+487629031
+263410080
+971863005
+854790600
+138940250
+692350074
+745286300
+Trying [2] at square (4,6)
+2 failed...moving to next possible number
+Trying [4] at square (4,6)
+4 failed...moving to next possible number
+Trying [5] at square (4,6)
+316578400
+529134000
+487629031
+263415080
+971863005
+854790600
+138940250
+692350074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 5,6
+Already filled...calling solver func 1
+
+Beginning of Function at 6,6
+Possible nums: 2 4 7 
+316578400
+529134000
+487629031
+263415080
+971863005
+854790600
+138940250
+692350074
+745286300
+Trying [2] at square (6,6)
+316578400
+529134000
+487629031
+263415080
+971863005
+854792600
+138940250
+692350074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 7,6
+Possible nums: 4 7 9 
+316578400
+529134000
+487629031
+263415080
+971863005
+854792600
+138940250
+692350074
+745286300
+Trying [4] at square (7,6)
+4 failed...moving to next possible number
+Trying [7] at square (7,6)
+316578400
+529134000
+487629031
+263415080
+971863005
+854792600
+138947250
+692350074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 8,6
+Possible nums: 1 5 9 
+316578400
+529134000
+487629031
+263415080
+971863005
+854792600
+138947250
+692350074
+745286300
+Trying [1] at square (8,6)
+316578400
+529134000
+487629031
+263415080
+971863005
+854792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 9,6
+Already filled...calling solver func 2
+
+Beginning of Function at 1,7
+Already filled...calling solver func 1
+
+Beginning of Function at 2,7
+Possible nums: 7 8 9 
+316578400
+529134000
+487629031
+263415080
+971863005
+854792600
+138947250
+692351074
+745286300
+Trying [7] at square (2,7)
+316578400
+529134700
+487629031
+263415080
+971863005
+854792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 3,7
+Possible nums: 5 9 
+316578400
+529134700
+487629031
+263415080
+971863005
+854792600
+138947250
+692351074
+745286300
+Trying [5] at square (3,7)
+316578400
+529134700
+487629531
+263415080
+971863005
+854792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 4,7
+Possible nums: 7 9 
+316578400
+529134700
+487629531
+263415080
+971863005
+854792600
+138947250
+692351074
+745286300
+Trying [7] at square (4,7)
+7 failed...moving to next possible number
+Trying [9] at square (4,7)
+316578400
+529134700
+487629531
+263415980
+971863005
+854792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 5,7
+Possible nums: 1 7 
+316578400
+529134700
+487629531
+263415980
+971863005
+854792600
+138947250
+692351074
+745286300
+Trying [1] at square (5,7)
+1 failed...moving to next possible number
+Trying [7] at square (5,7)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (3,7)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [8] at square (2,7)
+316578400
+529134800
+487629031
+263415080
+971863005
+854792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 3,7
+Possible nums: 5 9 
+316578400
+529134800
+487629031
+263415080
+971863005
+854792600
+138947250
+692351074
+745286300
+Trying [5] at square (3,7)
+316578400
+529134800
+487629531
+263415080
+971863005
+854792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 4,7
+Possible nums: 7 9 
+316578400
+529134800
+487629531
+263415080
+971863005
+854792600
+138947250
+692351074
+745286300
+Trying [7] at square (4,7)
+316578400
+529134800
+487629531
+263415780
+971863005
+854792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 5,7
+Possible nums: 1 7 
+316578400
+529134800
+487629531
+263415780
+971863005
+854792600
+138947250
+692351074
+745286300
+Trying [1] at square (5,7)
+1 failed...moving to next possible number
+Trying [7] at square (5,7)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [9] at square (4,7)
+316578400
+529134800
+487629531
+263415980
+971863005
+854792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 5,7
+Possible nums: 1 7 
+316578400
+529134800
+487629531
+263415980
+971863005
+854792600
+138947250
+692351074
+745286300
+Trying [1] at square (5,7)
+1 failed...moving to next possible number
+Trying [7] at square (5,7)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (3,7)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [9] at square (2,7)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [5] at square (8,6)
+5 failed...moving to next possible number
+Trying [9] at square (8,6)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [9] at square (7,6)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [4] at square (6,6)
+4 failed...moving to next possible number
+Trying [7] at square (6,6)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,6)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (2,6)
+7 failed...moving to next possible number
+Trying [9] at square (2,6)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [8] at square (8,5)
+316578400
+529130000
+487620031
+263410080
+971863005
+854790600
+138940250
+692380074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,5
+Possible nums: 4 7 8 
+316578400
+529130000
+487620031
+263410080
+971863005
+854790600
+138940250
+692380074
+745206300
+Trying [4] at square (9,5)
+4 failed...moving to next possible number
+Trying [7] at square (9,5)
+7 failed...moving to next possible number
+Trying [8] at square (9,5)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (7,5)
+7 failed...moving to next possible number
+Trying [8] at square (7,5)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [4] at square (2,5)
+316578400
+529140000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316578400
+529140000
+487600031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+Trying [2] at square (3,5)
+316578400
+529140000
+487620031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,5
+Already filled...calling solver func 1
+
+Beginning of Function at 5,5
+Already filled...calling solver func 1
+
+Beginning of Function at 6,5
+Already filled...calling solver func 1
+
+Beginning of Function at 7,5
+Possible nums: 4 7 8 
+316578400
+529140000
+487620031
+263410080
+971863005
+854790600
+138900250
+692300074
+745206300
+Trying [4] at square (7,5)
+4 failed...moving to next possible number
+Trying [7] at square (7,5)
+7 failed...moving to next possible number
+Trying [8] at square (7,5)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (2,5)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (8,4)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+316508400
+529100000
+487600031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529100000
+487600031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (3,4)
+316508400
+529100000
+487900031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529100000
+487900031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (4,4)
+316508400
+529100000
+487900031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529100000
+487900031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+316508400
+529100000
+487900031
+263410080
+971863005
+854790600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,4
+Possible nums: 4 7 9 
+316508400
+529100000
+487900031
+263410080
+971863005
+854790600
+138000250
+692000074
+745206300
+Trying [4] at square (7,4)
+4 failed...moving to next possible number
+Trying [7] at square (7,4)
+7 failed...moving to next possible number
+Trying [9] at square (7,4)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+316508400
+529100000
+487900031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529100000
+487900031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [3] at square (2,4)
+316508400
+529300000
+487000031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,4
+Possible nums: 4 6 9 
+316508400
+529300000
+487000031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (3,4)
+4 failed...moving to next possible number
+Trying [6] at square (3,4)
+316508400
+529300000
+487600031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529300000
+487600031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (4,4)
+316508400
+529300000
+487600031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529300000
+487600031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+316508400
+529300000
+487600031
+263410080
+971863005
+854790600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,4
+Possible nums: 4 7 9 
+316508400
+529300000
+487600031
+263410080
+971863005
+854790600
+138000250
+692000074
+745206300
+Trying [4] at square (7,4)
+4 failed...moving to next possible number
+Trying [7] at square (7,4)
+7 failed...moving to next possible number
+Trying [9] at square (7,4)
+316508400
+529300000
+487600031
+263410080
+971863005
+854790600
+138900250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,4
+Possible nums: 1 3 9 
+316508400
+529300000
+487600031
+263410080
+971863005
+854790600
+138900250
+692000074
+745206300
+Trying [1] at square (8,4)
+316508400
+529300000
+487600031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,4
+Already filled...calling solver func 2
+
+Beginning of Function at 1,5
+Possible nums: 2 7 
+316508400
+529300000
+487600031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+Trying [2] at square (1,5)
+316528400
+529300000
+487600031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,5
+Possible nums: 3 4 7 
+316528400
+529300000
+487600031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+Trying [3] at square (2,5)
+3 failed...moving to next possible number
+Trying [4] at square (2,5)
+316528400
+529340000
+487600031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529340000
+487600031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (2,5)
+316528400
+529370000
+487600031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529370000
+487600031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (1,5)
+316578400
+529300000
+487600031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,5
+Possible nums: 3 4 7 
+316578400
+529300000
+487600031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+Trying [3] at square (2,5)
+3 failed...moving to next possible number
+Trying [4] at square (2,5)
+316578400
+529340000
+487600031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316578400
+529340000
+487600031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+Trying [2] at square (3,5)
+316578400
+529340000
+487620031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,5
+Already filled...calling solver func 1
+
+Beginning of Function at 5,5
+Already filled...calling solver func 1
+
+Beginning of Function at 6,5
+Already filled...calling solver func 1
+
+Beginning of Function at 7,5
+Possible nums: 4 7 8 
+316578400
+529340000
+487620031
+263410080
+971863005
+854790600
+138900250
+692100074
+745206300
+Trying [4] at square (7,5)
+4 failed...moving to next possible number
+Trying [7] at square (7,5)
+7 failed...moving to next possible number
+Trying [8] at square (7,5)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (2,5)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [3] at square (8,4)
+3 failed...moving to next possible number
+Trying [9] at square (8,4)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+316508400
+529300000
+487600031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529300000
+487600031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (3,4)
+316508400
+529300000
+487900031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529300000
+487900031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (4,4)
+316508400
+529300000
+487900031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529300000
+487900031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+316508400
+529300000
+487900031
+263410080
+971863005
+854790600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,4
+Possible nums: 4 7 9 
+316508400
+529300000
+487900031
+263410080
+971863005
+854790600
+138000250
+692000074
+745206300
+Trying [4] at square (7,4)
+4 failed...moving to next possible number
+Trying [7] at square (7,4)
+7 failed...moving to next possible number
+Trying [9] at square (7,4)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+316508400
+529300000
+487900031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529300000
+487900031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [4] at square (2,4)
+316508400
+529400000
+487000031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,4
+Possible nums: 4 6 9 
+316508400
+529400000
+487000031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (3,4)
+4 failed...moving to next possible number
+Trying [6] at square (3,4)
+316508400
+529400000
+487600031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529400000
+487600031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (4,4)
+4 failed...moving to next possible number
+Trying [7] at square (4,4)
+316508400
+529400000
+487600031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529400000
+487600031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (3,4)
+316508400
+529400000
+487900031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529400000
+487900031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (4,4)
+4 failed...moving to next possible number
+Trying [7] at square (4,4)
+316508400
+529400000
+487900031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529400000
+487900031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [6] at square (2,4)
+316508400
+529600000
+487000031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,4
+Possible nums: 4 6 9 
+316508400
+529600000
+487000031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (3,4)
+4 failed...moving to next possible number
+Trying [6] at square (3,4)
+6 failed...moving to next possible number
+Trying [9] at square (3,4)
+316508400
+529600000
+487900031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529600000
+487900031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (4,4)
+316508400
+529600000
+487900031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529600000
+487900031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+316508400
+529600000
+487900031
+263410080
+971863005
+854790600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,4
+Possible nums: 4 7 9 
+316508400
+529600000
+487900031
+263410080
+971863005
+854790600
+138000250
+692000074
+745206300
+Trying [4] at square (7,4)
+4 failed...moving to next possible number
+Trying [7] at square (7,4)
+7 failed...moving to next possible number
+Trying [9] at square (7,4)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+316508400
+529600000
+487900031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529600000
+487900031
+263710080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (2,4)
+316508400
+529700000
+487000031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,4
+Possible nums: 4 6 9 
+316508400
+529700000
+487000031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (3,4)
+4 failed...moving to next possible number
+Trying [6] at square (3,4)
+316508400
+529700000
+487600031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529700000
+487600031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (4,4)
+316508400
+529700000
+487600031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529700000
+487600031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [9] at square (3,4)
+316508400
+529700000
+487900031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529700000
+487900031
+263010080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (4,4)
+316508400
+529700000
+487900031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529700000
+487900031
+263410080
+971863005
+854090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (4,4)
+7 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [9] at square (2,4)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [8] at square (8,3)
+8 failed...moving to next possible number
+Trying [9] at square (8,3)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [9] at square (7,3)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [8] at square (6,3)
+8 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [2] at square (5,3)
+2 failed...moving to next possible number
+Trying [4] at square (5,3)
+316508400
+529000000
+487000031
+263010080
+974863005
+850090600
+130000250
+690000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 6,3
+Possible nums: 1 2 4 8 
+316508400
+529000000
+487000031
+263010080
+974863005
+850090600
+130000250
+690000074
+745206300
+Trying [1] at square (6,3)
+316508400
+529000000
+487000031
+263010080
+974863005
+851090600
+130000250
+690000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,3
+Possible nums: 4 8 9 
+316508400
+529000000
+487000031
+263010080
+974863005
+851090600
+130000250
+690000074
+745206300
+Trying [4] at square (7,3)
+4 failed...moving to next possible number
+Trying [8] at square (7,3)
+316508400
+529000000
+487000031
+263010080
+974863005
+851090600
+138000250
+690000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,3
+Possible nums: 2 8 9 
+316508400
+529000000
+487000031
+263010080
+974863005
+851090600
+138000250
+690000074
+745206300
+Trying [2] at square (8,3)
+316508400
+529000000
+487000031
+263010080
+974863005
+851090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,3
+Already filled...calling solver func 2
+
+Beginning of Function at 1,4
+Already filled...calling solver func 1
+
+Beginning of Function at 2,4
+Possible nums: 1 3 4 6 7 9 
+316508400
+529000000
+487000031
+263010080
+974863005
+851090600
+138000250
+692000074
+745206300
+Trying [1] at square (2,4)
+316508400
+529100000
+487000031
+263010080
+974863005
+851090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,4
+Possible nums: 4 6 9 
+316508400
+529100000
+487000031
+263010080
+974863005
+851090600
+138000250
+692000074
+745206300
+Trying [4] at square (3,4)
+4 failed...moving to next possible number
+Trying [6] at square (3,4)
+316508400
+529100000
+487600031
+263010080
+974863005
+851090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,4
+Possible nums: 4 7 
+316508400
+529100000
+487600031
+263010080
+974863005
+851090600
+138000250
+692000074
+745206300
+Trying [4] at square (4,4)
+316508400
+529100000
+487600031
+263410080
+974863005
+851090600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 5,4
+Already filled...calling solver func 1
+
+Beginning of Function at 6,4
+Possible nums: 4 7 
+316508400
+529100000
+487600031
+263410080
+974863005
+851090600
+138000250
+692000074
+745206300
+Trying [4] at square (6,4)
+4 failed...moving to next possible number
+Trying [7] at square (6,4)
+316508400
+529100000
+487600031
+263410080
+974863005
+851790600
+138000250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 7,4
+Possible nums: 4 7 9 
+316508400
+529100000
+487600031
+263410080
+974863005
+851790600
+138000250
+692000074
+745206300
+Trying [4] at square (7,4)
+4 failed...moving to next possible number
+Trying [7] at square (7,4)
+7 failed...moving to next possible number
+Trying [9] at square (7,4)
+316508400
+529100000
+487600031
+263410080
+974863005
+851790600
+138900250
+692000074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,4
+Possible nums: 1 3 9 
+316508400
+529100000
+487600031
+263410080
+974863005
+851790600
+138900250
+692000074
+745206300
+Trying [1] at square (8,4)
+1 failed...moving to next possible number
+Trying [3] at square (8,4)
+316508400
+529100000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,4
+Already filled...calling solver func 2
+
+Beginning of Function at 1,5
+Possible nums: 2 7 
+316508400
+529100000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+Trying [2] at square (1,5)
+316528400
+529100000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,5
+Possible nums: 3 4 7 
+316528400
+529100000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+Trying [3] at square (2,5)
+316528400
+529130000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529130000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [4] at square (2,5)
+316528400
+529140000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529140000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [7] at square (2,5)
+316528400
+529170000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316528400
+529170000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+Trying [2] at square (3,5)
+2 failed...moving to next possible number
+Trying [4] at square (3,5)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+End of Func...Returning to caller
+
+Trying [7] at square (1,5)
+316578400
+529100000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 2,5
+Possible nums: 3 4 7 
+316578400
+529100000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+Trying [3] at square (2,5)
+316578400
+529130000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 3,5
+Possible nums: 2 4 
+316578400
+529130000
+487600031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+Trying [2] at square (3,5)
+316578400
+529130000
+487620031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 4,5
+Already filled...calling solver func 1
+
+Beginning of Function at 5,5
+Already filled...calling solver func 1
+
+Beginning of Function at 6,5
+Already filled...calling solver func 1
+
+Beginning of Function at 7,5
+Possible nums: 4 7 8 
+316578400
+529130000
+487620031
+263410080
+974863005
+851790600
+138900250
+692300074
+745206300
+Trying [4] at square (7,5)
+316578400
+529130000
+487620031
+263410080
+974863005
+851790600
+138940250
+692300074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 8,5
+Possible nums: 3 5 8 
+316578400
+529130000
+487620031
+263410080
+974863005
+851790600
+138940250
+692300074
+745206300
+Trying [3] at square (8,5)
+3 failed...moving to next possible number
+Trying [5] at square (8,5)
+316578400
+529130000
+487620031
+263410080
+974863005
+851790600
+138940250
+692350074
+745206300
+That worked..calling solver func 3
+
+Beginning of Function at 9,5
+Possible nums: 4 7 8 
+316578400
+529130000
+487620031
+263410080
+974863005
+851790600
+138940250
+692350074
+745206300
+Trying [4] at square (9,5)
+4 failed...moving to next possible number
+Trying [7] at square (9,5)
+7 failed...moving to next possible number
+Trying [8] at square (9,5)
+316578400
+529130000
+487620031
+263410080
+974863005
+851790600
+138940250
+692350074
+745286300
+That worked..calling solver func 4
+
+Beginning of Function at 1,6
+Already filled...calling solver func 1
+
+Beginning of Function at 2,6
+Possible nums: 1 4 7 9 
+316578400
+529130000
+487620031
+263410080
+974863005
+851790600
+138940250
+692350074
+745286300
+Trying [1] at square (2,6)
+1 failed...moving to next possible number
+Trying [4] at square (2,6)
+316578400
+529134000
+487620031
+263410080
+974863005
+851790600
+138940250
+692350074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 3,6
+Possible nums: 2 4 9 
+316578400
+529134000
+487620031
+263410080
+974863005
+851790600
+138940250
+692350074
+745286300
+Trying [2] at square (3,6)
+2 failed...moving to next possible number
+Trying [4] at square (3,6)
+4 failed...moving to next possible number
+Trying [9] at square (3,6)
+316578400
+529134000
+487629031
+263410080
+974863005
+851790600
+138940250
+692350074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 4,6
+Possible nums: 2 4 5 7 
+316578400
+529134000
+487629031
+263410080
+974863005
+851790600
+138940250
+692350074
+745286300
+Trying [2] at square (4,6)
+2 failed...moving to next possible number
+Trying [4] at square (4,6)
+4 failed...moving to next possible number
+Trying [5] at square (4,6)
+316578400
+529134000
+487629031
+263415080
+974863005
+851790600
+138940250
+692350074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 5,6
+Already filled...calling solver func 1
+
+Beginning of Function at 6,6
+Possible nums: 2 4 7 
+316578400
+529134000
+487629031
+263415080
+974863005
+851790600
+138940250
+692350074
+745286300
+Trying [2] at square (6,6)
+316578400
+529134000
+487629031
+263415080
+974863005
+851792600
+138940250
+692350074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 7,6
+Possible nums: 4 7 9 
+316578400
+529134000
+487629031
+263415080
+974863005
+851792600
+138940250
+692350074
+745286300
+Trying [4] at square (7,6)
+4 failed...moving to next possible number
+Trying [7] at square (7,6)
+316578400
+529134000
+487629031
+263415080
+974863005
+851792600
+138947250
+692350074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 8,6
+Possible nums: 1 5 9 
+316578400
+529134000
+487629031
+263415080
+974863005
+851792600
+138947250
+692350074
+745286300
+Trying [1] at square (8,6)
+316578400
+529134000
+487629031
+263415080
+974863005
+851792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 9,6
+Already filled...calling solver func 2
+
+Beginning of Function at 1,7
+Already filled...calling solver func 1
+
+Beginning of Function at 2,7
+Possible nums: 7 8 9 
+316578400
+529134000
+487629031
+263415080
+974863005
+851792600
+138947250
+692351074
+745286300
+Trying [7] at square (2,7)
+316578400
+529134700
+487629031
+263415080
+974863005
+851792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 3,7
+Possible nums: 5 9 
+316578400
+529134700
+487629031
+263415080
+974863005
+851792600
+138947250
+692351074
+745286300
+Trying [5] at square (3,7)
+316578400
+529134700
+487629531
+263415080
+974863005
+851792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 4,7
+Possible nums: 7 9 
+316578400
+529134700
+487629531
+263415080
+974863005
+851792600
+138947250
+692351074
+745286300
+Trying [7] at square (4,7)
+7 failed...moving to next possible number
+Trying [9] at square (4,7)
+316578400
+529134700
+487629531
+263415980
+974863005
+851792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 5,7
+Possible nums: 1 7 
+316578400
+529134700
+487629531
+263415980
+974863005
+851792600
+138947250
+692351074
+745286300
+Trying [1] at square (5,7)
+316578400
+529134700
+487629531
+263415980
+974863105
+851792600
+138947250
+692351074
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 6,7
+Already filled...calling solver func 1
+
+Beginning of Function at 7,7
+Already filled...calling solver func 1
+
+Beginning of Function at 8,7
+Possible nums: 1 8 9 
+316578400
+529134700
+487629531
+263415980
+974863105
+851792600
+138947250
+692351074
+745286300
+Trying [1] at square (8,7)
+1 failed...moving to next possible number
+Trying [8] at square (8,7)
+316578400
+529134700
+487629531
+263415980
+974863105
+851792600
+138947250
+692351874
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 9,7
+Already filled...calling solver func 2
+
+Beginning of Function at 1,8
+Possible nums: 2 9 
+316578400
+529134700
+487629531
+263415980
+974863105
+851792600
+138947250
+692351874
+745286300
+Trying [2] at square (1,8)
+316578420
+529134700
+487629531
+263415980
+974863105
+851792600
+138947250
+692351874
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 2,8
+Possible nums: 6 9 
+316578420
+529134700
+487629531
+263415980
+974863105
+851792600
+138947250
+692351874
+745286300
+Trying [6] at square (2,8)
+316578420
+529134760
+487629531
+263415980
+974863105
+851792600
+138947250
+692351874
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 3,8
+Already filled...calling solver func 1
+
+Beginning of Function at 4,8
+Already filled...calling solver func 1
+
+Beginning of Function at 5,8
+Possible nums: 1 2 4 
+316578420
+529134760
+487629531
+263415980
+974863105
+851792600
+138947250
+692351874
+745286300
+Trying [1] at square (5,8)
+1 failed...moving to next possible number
+Trying [2] at square (5,8)
+2 failed...moving to next possible number
+Trying [4] at square (5,8)
+4 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [9] at square (2,8)
+9 failed...moving to next possible number
+End of Func...Returning to caller
+
+Trying [9] at square (1,8)
+316578490
+529134700
+487629531
+263415980
+974863105
+851792600
+138947250
+692351874
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 2,8
+Possible nums: 6 9 
+316578490
+529134700
+487629531
+263415980
+974863105
+851792600
+138947250
+692351874
+745286300
+Trying [6] at square (2,8)
+316578490
+529134760
+487629531
+263415980
+974863105
+851792600
+138947250
+692351874
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 3,8
+Already filled...calling solver func 1
+
+Beginning of Function at 4,8
+Already filled...calling solver func 1
+
+Beginning of Function at 5,8
+Possible nums: 1 2 4 
+316578490
+529134760
+487629531
+263415980
+974863105
+851792600
+138947250
+692351874
+745286300
+Trying [1] at square (5,8)
+1 failed...moving to next possible number
+Trying [2] at square (5,8)
+316578490
+529134760
+487629531
+263415980
+974863125
+851792600
+138947250
+692351874
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 6,8
+Possible nums: 1 2 4 
+316578490
+529134760
+487629531
+263415980
+974863125
+851792600
+138947250
+692351874
+745286300
+Trying [1] at square (6,8)
+1 failed...moving to next possible number
+Trying [2] at square (6,8)
+2 failed...moving to next possible number
+Trying [4] at square (6,8)
+316578490
+529134760
+487629531
+263415980
+974863125
+851792640
+138947250
+692351874
+745286300
+That worked..calling solver func 3
+
+Beginning of Function at 7,8
+Already filled...calling solver func 1
+
+Beginning of Function at 8,8
+Already filled...calling solver func 1
+
+Beginning of Function at 9,8
+Possible nums: 1 9 
+316578490
+529134760
+487629531
+263415980
+974863125
+851792640
+138947250
+692351874
+745286300
+Trying [1] at square (9,8)
+316578490
+529134760
+487629531
+263415980
+974863125
+851792640
+138947250
+692351874
+745286310
+That worked..calling solver func 4
+
+Beginning of Function at 1,9
+Possible nums: 2 7 9 
+316578490
+529134760
+487629531
+263415980
+974863125
+851792640
+138947250
+692351874
+745286310
+Trying [2] at square (1,9)
+316578492
+529134760
+487629531
+263415980
+974863125
+851792640
+138947250
+692351874
+745286310
+That worked..calling solver func 3
+
+Beginning of Function at 2,9
+Possible nums: 6 7 8 9 
+316578492
+529134760
+487629531
+263415980
+974863125
+851792640
+138947250
+692351874
+745286310
+Trying [6] at square (2,9)
+6 failed...moving to next possible number
+Trying [7] at square (2,9)
+7 failed...moving to next possible number
+Trying [8] at square (2,9)
+316578492
+529134768
+487629531
+263415980
+974863125
+851792640
+138947250
+692351874
+745286310
+That worked..calling solver func 3
+
+Beginning of Function at 3,9
+Already filled...calling solver func 1
+
+Beginning of Function at 4,9
+Possible nums: 2 7 9 
+316578492
+529134768
+487629531
+263415980
+974863125
+851792640
+138947250
+692351874
+745286310
+Trying [2] at square (4,9)
+2 failed...moving to next possible number
+Trying [7] at square (4,9)
+316578492
+529134768
+487629531
+263415987
+974863125
+851792640
+138947250
+692351874
+745286310
+That worked..calling solver func 3
+
+Beginning of Function at 5,9
+Already filled...calling solver func 1
+
+Beginning of Function at 6,9
+Possible nums: 2 3 7 
+316578492
+529134768
+487629531
+263415987
+974863125
+851792640
+138947250
+692351874
+745286310
+Trying [2] at square (6,9)
+2 failed...moving to next possible number
+Trying [3] at square (6,9)
+316578492
+529134768
+487629531
+263415987
+974863125
+851792643
+138947250
+692351874
+745286310
+That worked..calling solver func 3
+
+Beginning of Function at 7,9
+Possible nums: 6 8 9 
+316578492
+529134768
+487629531
+263415987
+974863125
+851792643
+138947250
+692351874
+745286310
+Trying [6] at square (7,9)
+316578492
+529134768
+487629531
+263415987
+974863125
+851792643
+138947256
+692351874
+745286310
+That worked..calling solver func 3
+
+Beginning of Function at 8,9
+Already filled...calling solver func 1
+
+Beginning of Function at 9,9
+Possible nums: 8 9 
+316578492
+529134768
+487629531
+263415987
+974863125
+851792643
+138947256
+692351874
+745286310
+Trying [8] at square (9,9)
+8 failed...moving to next possible number
+Trying [9] at square (9,9)
+316578492
+529134768
+487629531
+263415987
+974863125
+851792643
+138947256
+692351874
+745286319
+Puzzle Solved...
+
