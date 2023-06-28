@@ -1,0 +1,2 @@
+def AutopilotRanker():
+	print("Ranking")
